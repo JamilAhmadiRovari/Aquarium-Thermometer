@@ -1,6 +1,6 @@
 Report       : TempRatorLm35_7Segmaent
 Date         : 12-14-2024
-Time         : 20:38:28
+Time         : 23:08:47
 
 Compiler     : BASCOM-AVR LIBRARY V 2.0.8.5
 Processor    : M8
@@ -8,8 +8,8 @@ SRAM         : 400 hex
 EEPROM       : 200 hex
 ROMSIZE      : 2000 hex
 
-ROMIMAGE     : 48C hex  -> Will fit into ROM
-ROMIMAGE     :  1164 dec
+ROMIMAGE     : 49C hex  -> Will fit into ROM
+ROMIMAGE     :  1180 dec
 FLASH USED   :  14  %
 BAUD         : 115200 Baud
 XTAL         : 1000000 Hz

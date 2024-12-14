@@ -57,13 +57,14 @@ declare sub  allDigoff
        i=val(str_dig)
 
        call NumberTo_7segment(i)
-         if temp > 10 then reset p
+         if temp >= 10 then reset p
        waitms 5
      allDigoff
      reset dig3
        str_dig=mid(str_temp,3,1)
        i=val(str_dig)
       call NumberTo_7segment(i)
+         if temp >= 100 then set p
       waitms 5
 
     loop
