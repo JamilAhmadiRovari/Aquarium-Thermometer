@@ -28,6 +28,8 @@
         </a> <br>
         <span>Resolation 0.5 degree Celsius </span> <br>
         <span>Range 0-80 degree Celsius</span> <br>
+		   <span>ATMEGA8</span> <br>
+		   <span>Sensor LM35</span> <br>
     </td>
     <td>
         Bascome <br>
